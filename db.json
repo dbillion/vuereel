@@ -1,14 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"events":[{
+  "id": 1,
+  "title": "Prefabricated Aluminum Metal Canopies",
+  "cartegory": "Business Development",
+  "time": "8:47 AM",
+  "date": "2/12/2023",
+  "location ": "Russia",
+  "pets": "Cormorant, large"
+}, {
+  "id": 2,
+  "title": "Electrical and Fire Alarm",
+  "cartegory": "Product Management",
+  "time": "9:21 AM",
+  "date": "4/20/2022",
+  "location ": "Indonesia",
+  "pets": "Peregrine falcon"
+}, {
+  "id": 3,
+  "title": "Electrical and Fire Alarm",
+  "cartegory": "Sales",
+  "time": "1:59 AM",
+  "date": "12/13/2022",
+  "location ": "China",
+  "pets": "Lizard, frilled"
+}
+         ]
 }
